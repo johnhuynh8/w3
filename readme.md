@@ -1,4 +1,2 @@
-Hello World
-I love monkeys 
-Monkeyys are friends
-dasdassa
+hello world
+i like monkeys
